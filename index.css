@@ -1,0 +1,88 @@
+body{
+    background-color:  #a09e9e63;
+}
+.GitHubHeader{
+    
+    display: flex;
+    height: 5rem;
+    width: 100%;
+    background-color:  #24292f;
+    
+}
+.image{
+    width:40%;
+}
+.img{
+    margin-top: 1.3rem;
+    margin-left: 2rem;
+    background-color:   white;
+    border-radius: 50%;
+}
+.title{
+    width: 60%;
+}
+.HeadLine{
+    color: #fff;
+    margin-left: 2rem;
+    margin-top: 1.2rem;
+}
+.main{
+    background-color: #a09e9e63;
+}
+.Firstdiv{
+background-color:   #24292f;
+height:28rem;
+width: 15rem;
+margin: 3rem 2.5rem 3rem;
+border-radius: 1.5rem;
+   
+}
+.searchBar{
+    margin-top: 3rem;
+    height: 6rem;
+}
+.search{
+    background-color:  #24292f ;
+    border-radius: .5rem;
+    height: 2.5rem;
+}
+.smallDiv{
+    background-color:   #24292f ;
+    width: 12rem;
+    height: 8rem;
+    margin-left: 2rem;
+    border-radius: 1.5rem;
+    margin-top: 1rem;
+}
+.SecondDiv{
+    border-radius: 1.5rem;
+    height: 24rem;
+    width: 15rem;
+    background-color: #24292f;
+    margin-left: 4rem;
+    margin-top: 2.3rem;
+    margin-bottom: 2rem;
+}
+.search{
+    width: 78%;
+    margin-left: 5rem;
+    margin-bottom: 13rem;
+    
+}
+.searchField{
+    border-radius: .5rem;
+    color: yellow;
+    width: 32rem;
+    background-color:#24292f ;
+}
+.thirdDiv{
+    border-radius: 1.5rem;
+    background-color:#24292f ;
+    width: 98%;
+    height: 9rem;
+    margin-top: 4rem;
+    margin-left: 2rem;
+}
+
+
+
